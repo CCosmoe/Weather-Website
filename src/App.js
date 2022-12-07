@@ -58,8 +58,8 @@ function App() {
       }
       else
       {
-        let defaulty = 'app'
-        return defaulty
+        let nochange = 'app'
+        return nochange
       }
     }
     if (k == 1)
@@ -86,8 +86,8 @@ function App() {
       }
       else
       {
-        let defaulty = 'app'
-        return defaulty
+        let nochange = 'app'
+        return nochange
       }
     }
   }
